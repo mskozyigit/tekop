@@ -1,0 +1,9 @@
+ ' kendini atacakmış göle '  için yanlış sayınız: 0 , Süreniz: 7.607429 , Başlama saatiniz: 09.50.42
+ ' yakında bir göl varmış '  için yanlış sayınız: 0 , Süreniz: 8.478576 , Başlama saatiniz: 09.50.51
+ ' tıpış tıpış evine gitmiş '  için yanlış sayınız: 0 , Süreniz: 9.257989 , Başlama saatiniz: 09.51.01
+ ' herkesin bir kusuru var '  için yanlış sayınız: 4 , Süreniz: 10.83888 , Başlama saatiniz: 09.51.12
+ ' patır patır atlayıvermişler göle '  için yanlış sayınız: 1 , Süreniz: 13.56154 , Başlama saatiniz: 09.51.26
+ ' apar topar yürümüş göle kadar '  için yanlış sayınız: 1 , Süreniz: 12.34598 , Başlama saatiniz: 09.51.38
+ ' korkudan ne yapacaklarını şaşırmışlar '  için yanlış sayınız: 3 , Süreniz: 15.57795 , Başlama saatiniz: 09.51.54
+ ' mercimek tanesi kadar bir böcek korkutuyor beni '  için yanlış sayınız: 1 , Süreniz: 26.84677 , Başlama saatiniz: 09.52.21
+ ' herkes halinden memnun olmalıdır '  için yanlış sayınız: 0 , Süreniz: 15.16526 , Başlama saatiniz: 09.52.37

@@ -1,0 +1,227 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/kayit_girisekrani.unity
+    guid: 2db1d77fa66d3cb4e88f2e1bbcd95aa6
+  - enabled: 1
+    path: Assets/Scenes/anasayfa.unity
+    guid: 1d5751e0f85702e46adaf5b4d9b3bc21
+  - enabled: 1
+    path: Assets/Scenes/butonlar.unity
+    guid: 367d245c53c4dff4b8906dc4c200558f
+  - enabled: 1
+    path: Assets/Scenes/instruction.unity
+    guid: 15a204f972b289b40a0abb1536ad5d42
+  - enabled: 1
+    path: Assets/Scenes/modul1giris.unity
+    guid: e6d37a6fcf90c3045b863c687100340a
+  - enabled: 1
+    path: Assets/Scenes/modul1_2.unity
+    guid: 711699c88beb4dd4987164ab1654f4e7
+  - enabled: 1
+    path: Assets/Scenes/modul1_3.unity
+    guid: 9bf4d7b86ab0aa74b877ecf5ee53f81e
+  - enabled: 1
+    path: Assets/Scenes/modul1_4.unity
+    guid: f5c6ab79b5263ce43841ecaccb327310
+  - enabled: 1
+    path: Assets/Scenes/modul1_5.unity
+    guid: dcb95ea742e1f874991c636315e65419
+  - enabled: 1
+    path: Assets/Scenes/modul1_6.unity
+    guid: 76293d8b6d510a741b3d82933d5c4168
+  - enabled: 1
+    path: Assets/Scenes/modul1_7.unity
+    guid: ddee3e6605d679946ad74ef946ff02a3
+  - enabled: 1
+    path: Assets/Scenes/modul1_8.unity
+    guid: fe160597354ca554d805aa5127962549
+  - enabled: 1
+    path: Assets/Scenes/instruction_test.unity
+    guid: 8da3c2d9cc987554ea9b961f16605d05
+  - enabled: 1
+    path: Assets/Scenes/sescikarma.unity
+    guid: 30012363b3412da4d8fee6b1737a610d
+  - enabled: 1
+    path: Assets/modul2/scenes/mod2_instruction.unity
+    guid: 0b040aeda2f999548aea9a59c8ee9bd9
+  - enabled: 1
+    path: Assets/modul2/scenes/mod2_sescikarma.unity
+    guid: d2eee693236ae31419f1c40219cd9d99
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/nasil.unity
+    guid: 84fa029409374ab4eb5db1201f145e46
+  - enabled: 1
+    path: Assets/Scenes/gelistirenler2.unity
+    guid: daf42376918d694499a3a7384c0b6f0a
+  - enabled: 1
+    path: Assets/modul3/scenes/modul3_instruction.unity
+    guid: 3a548797e60e37a43adc8dd1386d03f5
+  - enabled: 1
+    path: Assets/modul3/scenes/mod3giris.unity
+    guid: 083509c18f5767b4b9efbd5b49495c22
+  - enabled: 1
+    path: Assets/modul3/scenes/mod3giris_2.unity
+    guid: cd43c304aa974d642a18801e80c48e7f
+  - enabled: 1
+    path: "Assets/modul3/scenes/mod3_instanlams\u0131z.unity"
+    guid: 9ead817ba5a6aa94bbb15f1f35f08f26
+  - enabled: 1
+    path: "Assets/modul3/scenes/mod3_sesanlams\u0131z.unity"
+    guid: a59ff16bb1767cb438d386575ff254e3
+  - enabled: 1
+    path: Assets/modul3/scenes/mod3_instanlamli.unity
+    guid: 5e0414c7c8403404f994353851042559
+  - enabled: 1
+    path: Assets/modul3/scenes/mod3_basla.unity
+    guid: 81b1a936b66766a47978b6e540995611
+  - enabled: 1
+    path: Assets/modul3/scenes/mod3_giris3.unity
+    guid: 01699cc2704ef5c488f0da41699b0934
+  - enabled: 1
+    path: Assets/modul4/scenes/mod4_instruction.unity
+    guid: 2586efffa14b132428e31c99b6e0e660
+  - enabled: 1
+    path: Assets/modul4/scenes/mod4_harf1.unity
+    guid: 5e94243de0658364eac9e2f6cbec9295
+  - enabled: 1
+    path: Assets/modul4/scenes/mod4_harf2.unity
+    guid: 17c551cd16d7a1846b2ab119255cfb2e
+  - enabled: 1
+    path: Assets/modul4/scenes/mod4_harf3.unity
+    guid: c17778e25aec9b549a3746622aad61a8
+  - enabled: 1
+    path: Assets/modul4/scenes/mod4_harf4.unity
+    guid: 7b98e2eeff90c7e4da159faba9289c73
+  - enabled: 1
+    path: Assets/modul4/scenes/mod4_harf5.unity
+    guid: 9f326652891396c4e9dccf12e061dd7d
+  - enabled: 1
+    path: Assets/modul4/scenes/mod4_harf6.unity
+    guid: de5f94316a15af84dbf4415a5966b95f
+  - enabled: 1
+    path: Assets/modul4/scenes/mod4_instanlamsiz.unity
+    guid: f4365a5e6a90ff940a3e660741db4e4f
+  - enabled: 1
+    path: Assets/modul4/scenes/mod4_sesanlamsiz.unity
+    guid: 4700a29e07d8d7a42a0306ece7dd90b9
+  - enabled: 1
+    path: Assets/modul4/scenes/mod4_instanlamli.unity
+    guid: 4bd6079c36a56f841a7b170a79cff3ea
+  - enabled: 1
+    path: Assets/modul4/scenes/mod4_sesanlamli.unity
+    guid: 2b9baa12a436d8e4ea1ec497789d6684
+  - enabled: 1
+    path: Assets/modul5/scenes/mod5_instruction.unity
+    guid: 611f99fb65d317f4c98c292fa6aa1dbf
+  - enabled: 1
+    path: Assets/modul5/scenes/mod5_harf1.unity
+    guid: 1a451c1a3aa6bfa44a0d3af94440dae8
+  - enabled: 1
+    path: Assets/modul5/scenes/mod5_harf2.unity
+    guid: 1d8491a8749899243988b252408484c3
+  - enabled: 1
+    path: Assets/modul5/scenes/mod5_harf3.unity
+    guid: a63a51fb9a1cc8c479a50605ffaa55e7
+  - enabled: 1
+    path: Assets/modul5/scenes/mod5_harf4.unity
+    guid: ec3ea871c35695748994530c1338a94f
+  - enabled: 1
+    path: Assets/modul5/scenes/mod5_instanlamsiz.unity
+    guid: 8d4810c76bf5e1146adff08bf786f918
+  - enabled: 1
+    path: Assets/modul5/scenes/mod5_sesanlamsiz.unity
+    guid: ed70e1b460e60994a9cf6c510ed80d49
+  - enabled: 1
+    path: Assets/modul5/scenes/mod5_instanlamli.unity
+    guid: 469975ccdbea6674881e1845c2cd843a
+  - enabled: 1
+    path: Assets/modul5/scenes/mod5_sesanlamli.unity
+    guid: 97e46b94913f6b74b994eb2a339bd13c
+  - enabled: 1
+    path: Assets/modul6/Scenes/mod6_instruction.unity
+    guid: 04a4dcf8d49b6e844b7e88104059372e
+  - enabled: 1
+    path: Assets/modul6/Scenes/mod6_harf1.unity
+    guid: 2595e288cae6f43438a745e85da4907d
+  - enabled: 1
+    path: Assets/modul6/Scenes/mod6_harf2.unity
+    guid: b7e928d46843aa246aa86b6ae03c0fdc
+  - enabled: 1
+    path: Assets/modul6/Scenes/mod6_harf3_c.unity
+    guid: e265a1eb497c9ff4c965795351905613
+  - enabled: 1
+    path: Assets/modul6/Scenes/mod6_harf4_p.unity
+    guid: 66fc2319c3a02e74bae1f0cd9b3cf68b
+  - enabled: 1
+    path: Assets/modul6/Scenes/mod6_harf5.unity
+    guid: b6c686859c1121a4b87ce8d04b8e7951
+  - enabled: 1
+    path: Assets/modul6/Scenes/mod6_instanlamsiz.unity
+    guid: 3cea8658d6644944f8ce87e3afdf303e
+  - enabled: 1
+    path: Assets/modul6/Scenes/mod6_sesanlamsiz.unity
+    guid: dfccfd1a548005944a299040d0e46891
+  - enabled: 1
+    path: Assets/modul6/Scenes/mod6_instanlamli.unity
+    guid: 4815a79574f265e44b71831dfd2013bd
+  - enabled: 1
+    path: Assets/modul6/Scenes/mod6_sesanlamli.unity
+    guid: f38d05cc2b77a48408921684e2c71371
+  - enabled: 1
+    path: Assets/modul7/Scenes/mod7_instruction.unity
+    guid: f90d52e9bffd8ab4d8e52925989e3bf7
+  - enabled: 1
+    path: Assets/modul7/Scenes/mod7_harf1.unity
+    guid: 294f503f34137a049a9d05cf9d455b02
+  - enabled: 1
+    path: Assets/modul7/Scenes/mod7_harf2.unity
+    guid: 7d3e68308e96917498dbc9c9c085e273
+  - enabled: 1
+    path: Assets/modul7/Scenes/mod7_harf3.unity
+    guid: 2dfbf910f401a884a951815c647c2dc5
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/modul7/Scenes/mod7_instanlamsiz.unity
+    guid: 8c18f261acbb1f940b3f51b94e9d6d24
+  - enabled: 1
+    path: Assets/modul7/Scenes/mod7_sesanlamsiz.unity
+    guid: 4157817b39a254e46b415f12fce0f060
+  - enabled: 1
+    path: Assets/modul7/Scenes/mod7_instanlamli.unity
+    guid: 0afd3729971094d4a871e7915b8399d5
+  - enabled: 1
+    path: Assets/modul7/Scenes/mod7_sesanlamli.unity
+    guid: 9d8930dde2c8e254bb37ad1f9515e11e
+  - enabled: 1
+    path: Assets/Scenes/kayit_ol.unity
+    guid: 4d5a349171ffe9946a8a21f0d38f04f5
+  - enabled: 1
+    path: Assets/modul8/Scenes/mod8_instruction.unity
+    guid: e1fb1bfc5b7670c449391e63bef456fb
+  - enabled: 1
+    path: Assets/modul8/Scenes/mod8_kelime.unity
+    guid: 9f25ce3194706ed4ba0f893609e732d8
+  - enabled: 1
+    path: Assets/modul9/Scenes/mod9_instruction.unity
+    guid: 0ef3a9709398fca498c116586fe872ee
+  - enabled: 1
+    path: Assets/modul9/Scenes/mod9_kelime.unity
+    guid: c539990f2aae72e4197cd96edbd52a63
+  m_configObjects: {}

@@ -1,0 +1,13 @@
+ ' ka '  için yanlış sayınız: 0 , Süreniz: 4.411366 , Başlama saatiniz: 09.53.34
+ ' sa '  için yanlış sayınız: 0 , Süreniz: 4.043077 , Başlama saatiniz: 09.53.38
+ ' la '  için yanlış sayınız: 0 , Süreniz: 4.291508 , Başlama saatiniz: 09.53.43
+ ' da '  için yanlış sayınız: 0 , Süreniz: 4.331761 , Başlama saatiniz: 09.53.48
+ ' ka '  için yanlış sayınız: 0 , Süreniz: 3.676669 , Başlama saatiniz: 09.54.42
+ ' sa '  için yanlış sayınız: 0 , Süreniz: 4.241878 , Başlama saatiniz: 09.54.46
+ ' ka '  için yanlış sayınız: 0 , Süreniz: 4.039134 , Başlama saatiniz: 09.55.32
+ ' sa '  için yanlış sayınız: 0 , Süreniz: 3.960963 , Başlama saatiniz: 09.55.36
+ ' la '  için yanlış sayınız: 0 , Süreniz: 4.35739 , Başlama saatiniz: 09.55.41
+ ' ka '  için yanlış sayınız: 0 , Süreniz: 4.245577 , Başlama saatiniz: 09.57.10
+ ' ka '  için yanlış sayınız: 0 , Süreniz: 4.637735 , Başlama saatiniz: 09.58.16
+ ' sa '  için yanlış sayınız: 0 , Süreniz: 4.340829 , Başlama saatiniz: 09.58.20
+ ' la '  için yanlış sayınız: 0 , Süreniz: 4.763426 , Başlama saatiniz: 09.58.25
